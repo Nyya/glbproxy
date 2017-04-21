@@ -1,24 +1,17 @@
-# 修复教程
-新版本如果未登录使用过，修复不可用，新版本同步VPN暂时停用。
-<br>
-# 最新消息
+# News
 Hi Chrome Users,<br>
-老用户重要：2016.11.22发布海豚畅游2，穿越2。3.0+新版无法使用问题如何解决？<br>
-请删除老版本重新下载crx文件重新安装即可解决问题。不能覆盖和自动升级<br>
+We published chrome crx 3.1.3, update to it is needed. And chrome 57,58 are available now !<br>
+2017-6-1月左右将完成，Chrome,Windows,Mac,IOS,Android全平台使用。<hr>
 <b>下载地址：https://github.com/ayooay/glbproxy/releases</b><br>
 
 Message from Twitter:https://twitter.com/AyooBull<br>
 
-# global proxy
+# Global Proxy Online
 Faster and more stable version with multi nodes. Nodes around the world coming soon.
 
-Latest version Dolphin V3.0.5, Ecross V3.0.5, Android V4.1.1, Youss.vip Vpn for Mobile.
+Latest version Dolphin V3.1.3, Ecross V3.1.3, Android V4.1.1, Youss.vip Vpn for Mobile.
 
-For Worldwide: http://glbproxy.tk/?r=1 <br>
-For China <b>(插件下载)</b>: https://do1.glbproxy.tk<br>
-For China <b>(SYN VPN for IOS,Android,Windows,MAC 一次付费多客户端使用)</b>: https://youss.vip <br> 
-
-Dolphin 4.1.1 for <b>Android最新版本(独立收费，5节点，无限流量)，1.解决了偶尔掉线问题 2.优化了对DNS污染来临时，自助修复客户端</b> <br> Android官网：https://android.glbproxy.tk<br><br>
+For Worldwide: http://glbproxy.online <br>
 
 All Release：https://github.com/ayooay/glbproxy/releases<br>
 All the URLs are dynamic.
